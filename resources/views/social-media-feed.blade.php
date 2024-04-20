@@ -22,6 +22,7 @@
                 @endforeach
             </ul>
         </div>
+        <hr />
         @endforeach
     </div>
 </body>
